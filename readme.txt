@@ -9,7 +9,7 @@ Stable tag: 1.2
 ReFeed old posts
 == Description ==
 
-Locks posts and required sms payment for unlocking
+Locks posts and requires sms payment for unlocking it. This way you can have post with paid access
 
 == Installation ==
 
