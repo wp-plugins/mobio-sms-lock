@@ -4,7 +4,7 @@
    Plugin URI: 
    Description: Плъгина позволява да създавате платени статиите (постове), достъпни след заплащането чрез SMS към системата на Mobio.bg.
    Author: mlazarov
-   Version: 1.2
+   Version: 1.3
    Author URI: http://www.mobio.bg
    */
 

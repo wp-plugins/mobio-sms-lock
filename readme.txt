@@ -4,9 +4,9 @@ Donate link: http://marto.lazarov.org/
 Tags: mobio, sms, lock, заключване
 Requires at least: 2.0.2
 Tested up to: 3.3.1
-Stable tag: 1.2
+Stable tag: 1.3
 
-ReFeed old posts
+Плъгина позволява да създавате платени статиите (постове), достъпни след заплащането чрез SMS към системата на Mobio.bg.
 == Description ==
 
 Locks posts and requires sms payment for unlocking it. This way you can have post with paid access
@@ -27,6 +27,10 @@ Locks posts and requires sms payment for unlocking it. This way you can have pos
 No screenshots for now
 
 == Changelog ==
+
+= 1.3 = 
+* Adding description
+
 = 1.2 =
 * Initial release from Mobio plugin
 
